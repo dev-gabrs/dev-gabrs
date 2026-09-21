@@ -37,3 +37,13 @@ No momento meu foco está em:
 <img src="https://skillicons.dev/icons?i=vscode,git,github,notion,postman&theme=dark" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1625,50:8b5cf6,100:1a1625&height=3" width="100%" />
+
+## `✦ contribuições`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/dev-gabrs/dev-gabrs/output/snake-roxa.svg" alt="Cobrinha comendo as contribuições" />
+
+</div>
