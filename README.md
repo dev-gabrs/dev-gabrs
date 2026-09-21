@@ -5,3 +5,19 @@
 <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Codando+em+Python+e+construindo+projetos;Full-stack+e+Ciberseguran%C3%A7a+no+radar;Transformando+teoria+em+projeto;Praticando+l%C3%B3gica%2C+c%C3%B3digo+e+boas+pr%C3%A1ticas" />
 
 <img src="https://komarev.com/ghpvc/?username=dev-gabrs&label=VISITAS%20AO%20PERFIL&color=8b5cf6&style=flat-square" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1625,50:8b5cf6,100:1a1625&height=3" width="100%" />
+
+## `✦ sobre mim`
+
+Sou estudante de Ciência da Computação na Universidade de Passo Fundo.
+
+O que me move é a curiosidade: não me contento em saber que algo funciona, quero entender **como** e **por quê**. Por isso gosto de aprender construindo. Pego o que estudo e transformo em projeto, mesmo que isso signifique quebrar a cabeça (e o código) algumas vezes no caminho.
+
+No momento meu foco está em:
+
+- 🐍 Fundamentos de programação com **Python**
+- 🛒 Um **e-commerce full-stack** em desenvolvimento
+- 🔐 Primeiros passos em **Cibersegurança**
+- 🗄️ Lógica, algoritmos e banco de dados
+- 🌱 Versionamento com **Git e GitHub**
