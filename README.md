@@ -47,3 +47,16 @@ No momento meu foco está em:
 <img src="https://raw.githubusercontent.com/dev-gabrs/dev-gabrs/output/snake-roxa.svg" alt="Cobrinha comendo as contribuições" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1625,50:8b5cf6,100:1a1625&height=3" width="100%" />
+
+## `✦ contato`
+
+<div align="center">
+
+<a href="https://instagram.com/gabriela.toldo_"><img src="https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=A78BFA" /></a>
+<a href="mailto:dev.gabrielatoldo@gmail.com"><img src="https://img.shields.io/badge/E--mail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=A78BFA" /></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:8b5cf6,50:1a1625,100:0d0d0d&section=footer" width="100%" />
